@@ -37,7 +37,11 @@
 
 ⚡ I believe every line of code should either solve a problem or teach you something new.
 
-📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=byiringiro-aloys&show_icons=true&theme=radical" alt="GitHub stats"/> </p>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=byiringiro-aloys&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=byiringiro-aloys&theme=radical" height="180" />
+</p>
+
 
 🔥 Always building, always learning. Let’s connect and create something impactful!
