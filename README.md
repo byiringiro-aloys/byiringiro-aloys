@@ -3,7 +3,7 @@
 🎯 Passionate about Machine Learning, Cybersecurity, and Software Development
 💡 Always curious, always building.
 
-🚀 About Me
+## 🚀 About Me
 
 🔭 Currently learning Software Development + Machine Learning
 
@@ -13,7 +13,7 @@
 
 😄 Pronouns: He/Him
 
-🌍 Connect with Me
+## 🌍 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/byiringiro-aloys-ba316a334/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/byiringiro-aloys"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a> </p>
 🛠️ Tech Interests
 
@@ -23,7 +23,7 @@
 
 💻 Software Development → backend & full-stack solutions
 
-⚡ Fun Facts About Me
+⚡## Fun Facts About Me
 
 🧠 ML models learn by example — they aren’t told “this is a cat,” they figure it out from thousands of cat photos.
 
