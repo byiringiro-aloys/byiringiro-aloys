@@ -1,146 +1,144 @@
 <h1 align="center">👋 Hey, I’m <a href="https://github.com/byiringiro-aloys">Aloys Byiringiro</a></h1>
-<h3 align="center">🚀 CTO @ <a href="https://www.blinktechnologiz.com">Blink-Tech</a> | Machine Learning | Cybersecurity | Software Development</h3>
+
+<h2 align="center" style="font-size:28px;">
+  💡 <strong>Former CTO</strong> @ <a href="https://www.blinktechnologiz.com">Blink-Tech</a>
+</h2>
 
 <p align="center">
-  <em>“Turning ideas into secure and intelligent systems — one line of code at a time.”</em>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00A8E8&center=true&vCenter=true&width=750&lines=🚀+Machine+Learning+Engineer;🛡️+Cybersecurity+Enthusiast;⚙️+Backend+Developer;🤖+Building+Practical+AI+Solutions" 
+    alt="Dynamic Typing Text" 
+  />
 </p>
+
+<p align="center">
+  <em style="font-size:18px;">
+    Turning ideas into <strong>secure</strong> and <strong>efficient</strong> systems — one line of code at a time.
+  </em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=byiringiro-aloys&style=flat-square&color=00A8E8" alt="Profile Views" />
+</p>
+
 
 ---
 
+
 ## 🧭 About Me
 
-- 🏢 Chief Technology Officer (CTO) at [**Blink-Tech**](https://www.blinktechnologiz.com) — building innovative and secure software ecosystems.
-- 💻 Passionate about **Machine Learning**, **Cybersecurity**, and **Backend Engineering**.
-- 🔭 Currently exploring **AI-powered systems**, **Blockchain integrations**, and **Cloud DevOps**.
-- 🤝 Open to collaborations on **AI**, **Security**, and **Open Source** projects.
-- 💬 I enjoy discussing **system architecture**, **data protection**, and **intelligent automation**.
-- 🌍 Advocate for **ethical AI** and **inclusive digital innovation**.
-- 😄 Pronouns: **He/Him**
+- 🏢 Former Chief Technology Officer (CTO) at [**Blink-Tech**](https://www.blinktechnologiz.com).  
+- 💻 Passionate about **Machine Learning**, **Cybersecurity**, **Blockchain**, and **Backend Engineering**.  
+- 🔭 Currently exploring **AI-powered systems**, **Cloud DevOps**, and **Next-gen digital security solutions**.  
+- 🤝 Open to collaborations on **AI**, **Open Source**, and **Innovative Web/Cloud Projects**.  
+- 🌍 Advocate for **ethical AI** and **inclusive digital innovation**.  
 - ⚡ Philosophy: *“Every line of code should either solve a problem or teach me something new.”*
 
 ---
 
-## 🛠️ Tech Stack
+## 🎨 Tech Stacks & Skill Levels
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+<h2 align="center">💻 <span style="color:#FF6F61">Programming Languages & Frameworks</span></h2>
 
-### ⚙️ Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1F2937" height="35"/>
+</p>
 
-### 🤖 Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+<h2 align="center">⚙️ <span style="color:#34D399">Frameworks & Tools</span></h2>
 
-### 🔐 Cybersecurity & DevOps
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-003F5C?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=1F2937" height="35"/>
+</p>
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+<h2 align="center">🤖 <span style="color:#FBBF24">AI & Machine Learning</span></h2>
 
-### 🧰 Tools & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1F2937" height="35"/>
+</p>
+
+<h2 align="center">🔐 <span style="color:#EF4444">Cybersecurity & DevOps</span></h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/Metasploit-003F5C?style=for-the-badge&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1F2937" height="35"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1F2937" height="35"/>
+</p>
 
 ---
 
-## 🧩 Fun Tech Facts
+## 🔥 Fun Interactive Section
 
-🧠 **Machine Learning models** learn from patterns — not instructions.  
-🔐 **Cybersecurity** is like chess: defense and foresight.  
-🕵️ **Debugging** = detective work where you’re both the culprit and the hero.  
-💡 The first “bug” was a moth in 1947.  
-🌀 **Git** is time travel — handle rebase carefully.  
-⚡ “Each line of code should create value or insight.”
+<details>
+<summary>💡 Click to reveal tech facts & quotes</summary>
 
----
+- 🧠 **ML models** learn from patterns — not instructions.  
+- 🔐 **Cybersecurity** = chess: defense & foresight.  
+- 🕵️ **Debugging** = detective work where you’re both culprit & hero.  
+- 💡 The first “bug” was a moth in 1947.  
+- 🌀 **Git** is time travel — handle rebase carefully.  
+- ⚡ “Each line of code should create value or insight.”
 
-## 🏆 GitHub Achievements & Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byiringiro-aloys&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=byiringiro-aloys&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=byiringiro-aloys&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=byiringiro-aloys&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=byiringiro-aloys&theme=tokyonight&no-frame=true&margin-w=5&row=1" />
-</p>
+</details>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| 🔐 [**Ciphera**](https://github.com/byiringiro-aloys/ciphera) | Browser extension that protects sensitive data from AI systems | Node.js, JS, Regex, Browser APIs |
-| 🌾 [**Ngwino Platform**](https://github.com/byiringiro-aloys/ngwino-platform) | Smart farming & investment system for Africa | Django, Flutter, PostgreSQL, TensorFlow Lite |
-| 📚 **Library Management System** | Academic library system built in C (console + GUI) | C, File I/O, GTK |
-| 🤖 **AI Disease Diagnosis** | Plant disease detection using lightweight CNNs | Python, TensorFlow, OpenCV |
-| 💼 [**Blink-Tech Solutions**](https://www.blinktechnologiz.com) | Building impactful software and AI systems | React, Django, Node.js, ML |
+<p align="center">
+  <a href="https://github.com/byiringiro-aloys/ciphera"><img src="https://img.shields.io/badge/Ciphera-Node.js%20%7C%20JS-blueviolet?style=for-the-badge&logo=javascript" /></a>
+  <a href="https://github.com/byiringiro-aloys/ngwino-platform"><img src="https://img.shields.io/badge/Ngwino%20Platform-Django%20%7C%20Flutter-green?style=for-the-badge&logo=flutter" /></a>
+  <a href="https://www.blinktechnologiz.com"><img src="https://img.shields.io/badge/Blink-Tech.js%20%7C%20JS-blueviolet?style=for-the-badge&logo=typescript" /></a>
+</p>
 
 ---
 
-## 🌍 Connect with Me
+## 📈 GitHub Stats & Analytics
 
 <p align="center">
-  <a href="https://www.blinktechnologiz.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/byiringiro-aloys-ba316a334/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/byiringiro-aloys">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:byiringiroaloys@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/Byiringiro30">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byiringiro-aloys&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=byiringiro-aloys&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=byiringiro-aloys&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=byiringiro-aloys&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=byiringiro-aloys&theme=radical&no-frame=true&margin-w=5&row=1" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.blinktechnologiz.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/byiringiro-aloys-ba316a334/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/byiringiro-aloys"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:byiringiroaloys@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/Byiringiro30"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 ---
 
 <h3 align="center">🔥 Always building. Always learning. Let’s connect and create something impactful.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=byiringiro-aloys&style=flat-square&color=blue" alt="Profile views"/>
-</p>
