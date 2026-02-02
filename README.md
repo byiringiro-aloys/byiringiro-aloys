@@ -92,9 +92,9 @@
 - 🧠 **ML models** learn from patterns — not instructions.  
 - 🔐 **Cybersecurity** = chess: defense & foresight.  
 - 🕵️ **Debugging** = detective work where you’re both culprit & hero.  
-- 💡 The first “bug” was a moth in 1947.  
+- 💡 The first **bug** was a moth in 1947.  
 - 🌀 **Git** is time travel — handle rebase carefully.  
-- ⚡ “Each line of code should create value or insight.”
+- ⚡ Each line of code should create value or insight.
 
 </details>
 
