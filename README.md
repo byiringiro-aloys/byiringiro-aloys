@@ -1,32 +1,40 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+BYIRINGIRO+ALOYS;Fullstack+Developer;DevOps+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=BYIRINGIRO+ALOYS;Full+Stack+Developer;Cybersecurity+Enthusiast;Devops+Engineer;Network+Engineer" alt="Typing Animation" />
 </div>
 
+<br>
+
+## 📊 Stats
+
+<!-- Your block fits perfectly here -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byiringiro-aloys&show_icons=true&theme=transparent&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff" alt="GitHub Stats" />
-  
-  <br/>
+  <img 
+    src="https://streak-stats-tawny.vercel.app/?user=byiringiro-aloys&theme=transparent&hide_border=true&type=svg" 
+    alt="GitHub Streak" 
+    width="70%"
+    style="border: 2px solid #0078FF; border-radius: 10px; margin-bottom: 20px;"
+  />
+ <!-- Divider -->
+  <hr style="width:60%; border: 1.5px solid #0078FF; border-radius: 5px; margin: 25px auto;" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byiringiro-aloys&theme=transparent&hide_border=true&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
+  <img 
+    src="https://top-lang-wigo.vercel.app/api/top-langs/?username=byiringiro-aloys&theme=transparent&layout=compact&hide_border=true&border_radius=20&border_color=0078FF" 
+    alt="Top Langs" 
+    width="50%"
+    style="border: 2px solid #0078FF; border-radius: 10px; margin-top: 20px;"
+  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byiringiro-aloys&layout=compact&theme=transparent&hide_border=true&title_color=00d2ff&text_color=ffffff" alt="Top Langs" />
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=byiringiro-aloys&theme=dark_dimmed&row=5&column=6&no-bg=true&no-frame=true" width="100%"/>
+</p>
+
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=byiringiro-aloys&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>Let's build something amazing together! 🚀</h3>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=120&section=footer" width="100%"/>
+---
 
 ## 🌍 Connect With Me
 
@@ -38,7 +46,6 @@
   <a href="https://x.com/Byiringiro30"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
----
-
-<h3 align="center">🔥 Always building. Always learning. Let’s connect and create something impactful.</h3>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0303ff&height=120&section=footer" alt="Footer Wave"/>
+</div>
